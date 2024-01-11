@@ -1,1 +1,1 @@
-#Read me bro you won't I dare you to bro
+The purpose of this project is that I have a video containing a bass tab which I would like to have a written tab version of. I wrote this code to extract the bass tab from the code and then generalize for other videos that show bass tab.
