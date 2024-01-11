@@ -31,16 +31,10 @@ for i in range(count):
 for i in range(count):
     os.remove(f'frame{i}.jpg')
 
-print('Done master Jacob uwu owo')
+print('Finished!')
 
 
 
 
 
 
-#THE PLAN IS AS FOLLOWS:
-#1 - download a youtube video that shows bass tab that I wish to learn - DONE
-#2 - take pictures of all of the times that the tab changes in youtube video -> take pictures every frame - DONE
-#2.5 - crop the pictures to only include the tab
-#2.75 - identify which pictures are duplicates and can be removed 
-#3 - put all of those pictures together into a tab document that I can then print 
